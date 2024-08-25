@@ -285,7 +285,7 @@ h4 {
   flex-flow: column;
   margin-bottom: 2px;
   padding-top: 40px;
-  padding-bottom: 10px;
+  padding-bottom: 26px;
   display: flex;
 }
 
@@ -310,7 +310,7 @@ h4 {
 .section-3 {
   background-color: #f8f6e5;
   padding-top: 25px;
-  padding-bottom: 50px;
+  padding-bottom: 25px;
 }
 
 .button {
@@ -738,6 +738,10 @@ h4 {
     padding-bottom: 10px;
   }
 
+  .navlink {
+    background-color: #fff;
+  }
+
   .navbar-3 {
     padding-left: 5px;
     padding-right: 5px;
@@ -748,6 +752,7 @@ h4 {
   }
 
   .div-block-8 {
+    background-color: #fff;
     flex-flow: column;
     padding-left: 5px;
     padding-right: 2px;
@@ -773,5 +778,9 @@ h4 {
 
   .header-center-box._75 {
     width: 90%;
+  }
+
+  .left-arrow {
+    font-size: 8px;
   }
 }
