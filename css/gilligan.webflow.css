@@ -646,6 +646,8 @@ h4 {
 
 .content-wrapper.slim {
   max-width: 700px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .accordion-item-content {
