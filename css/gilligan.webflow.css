@@ -689,6 +689,11 @@ h4 {
   padding-bottom: 25px;
 }
 
+.bold-text-2, .bold-text-3, .bold-text-4, .bold-text-5, .bold-text-6, .bold-text-7 {
+  color: #fff;
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 991px) {
   .accordion-paragraph---brix {
     max-width: 100%;
@@ -786,3 +791,5 @@ h4 {
     font-size: 8px;
   }
 }
+
+
